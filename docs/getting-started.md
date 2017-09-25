@@ -81,7 +81,7 @@ All values need to be JavaScript strings, which means they should be enclosed in
 
 ## Importing Components
 
-A react component created outside of Lab can be imported to Lan. You can view them side-by-side and with different example props.
+A react component created outside of Lab can be imported to Lab. You can view them side-by-side and with different example props.
 
 To import a component, select the `File > Import Component` menu item.
 Navigate to a component within the same folder as your project to select a component for importing.
